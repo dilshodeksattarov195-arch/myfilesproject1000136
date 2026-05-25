@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productsync",
+        "uuid": 1279216,
+        "checksum": "fb1li"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
